@@ -48,14 +48,14 @@ export default class Workshop extends Component {
                   interval={200}
                   type="bottom"
                 >
-                  {/*{MOCK_DATA.map((item, index) => {*/}
-                    {/*return (*/}
-                      {/*<div style={styles.item} key={index}>*/}
-                        {/*<div style={styles.itemNum}>{`0${item.id}`}</div>*/}
-                        {/*<div style={styles.itemTitle}>{item.title}</div>*/}
-                      {/*</div>*/}
-                    {/*);*/}
-                  {/*})}*/}
+                  {MOCK_DATA.map((item, index) => {
+                    return (
+                      <div style={styles.item} key={index}>
+                        <div style={styles.itemNum}>{`0${item.id}`}</div>
+                        <div style={styles.itemTitle}>{item.title}</div>
+                      </div>
+                    );
+                  })}
                 </QueueAnim>
               </div>
             </div>

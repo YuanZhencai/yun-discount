@@ -21,14 +21,14 @@ const NAVS = [
     to: 'page3',
     name: '云活动',
   },
-  {
-    to: 'page4',
-    name: '云作坊',
-  },
-  {
-    to: 'page5',
-    name: '云赞助',
-  },
+  // {
+  //   to: 'page4',
+  //   name: '云作坊',
+  // },
+  // {
+  //   to: 'page5',
+  //   name: '云赞助',
+  // },
 ];
 
 export default class Header extends Component {
