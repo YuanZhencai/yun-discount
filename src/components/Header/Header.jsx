@@ -11,23 +11,23 @@ ScrollAnim.scrollScreen.init({ loop: true });
 const NAVS = [
   {
     to: 'page1',
-    name: '首页',
+    name: '云首页',
   },
   {
     to: 'page2',
-    name: '极客派',
+    name: '云优惠',
   },
   {
     to: 'page3',
-    name: '极客活动',
+    name: '云活动',
   },
   {
     to: 'page4',
-    name: '工作坊',
+    name: '云作坊',
   },
   {
     to: 'page5',
-    name: '赞助商',
+    name: '云赞助',
   },
 ];
 

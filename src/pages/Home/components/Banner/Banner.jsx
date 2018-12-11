@@ -19,7 +19,7 @@ export default class Banner extends Component {
         <div style={styles.content}>
           <QueueAnim delay={200} duration={1000} interval={300} type="bottom">
             <div key="title" style={styles.title}>
-              云栖极客派
+              不要钱的云
             </div>
             <div key="logo" style={styles.logo}>
               <img
