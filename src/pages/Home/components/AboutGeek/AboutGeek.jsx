@@ -57,7 +57,14 @@ export default class AboutGeek extends Component {
                                     首次购买高性能云服务器，享低至2折优惠
                                 </div>
                             </div>
-
+                            <div key="introFive" style={{...styles.item, ...styles.introTwo}}>
+                                <div style={styles.itemTitle}>
+                                    【超高返现】购物车全产品返25%
+                                </div>
+                                <div style={styles.itemDesc}>
+                                    新客每满1000立减50元叠加代金券，老客也可一次性采购多种产品
+                                </div>
+                            </div>
                         </QueueAnim>
                     </ScrollOverPack>
                 </div>
@@ -112,7 +119,6 @@ const styles = {
         display: 'inline-block',
         width: '720px',
         position: 'relative',
-        top: '54px',
     },
     itemTitle: {
         fontSize: '32px',
