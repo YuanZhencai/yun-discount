@@ -28,14 +28,14 @@ export default class AboutGeek extends Component {
                                 <div style={styles.subtitle}>云优惠</div>
                             </div>
                             <div key="introOne" style={{...styles.item, ...styles.introOne}}>
-                                <div style={styles.itemTitle}>阿里云大礼包，最高￥1888云产品通用代金券</div>
+                                <div style={styles.itemTitle}><a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=36ceuk0k" target="_blank">阿里云大礼包</a> 最高￥1888云产品通用代金券</div>
                                 <div style={styles.itemDesc}>
                                     阿里云活动贴心大礼包1888元代金券免费赠送，领券买产品更优惠！
                                 </div>
                             </div>
                             <div key="introTwo" style={{...styles.item, ...styles.introTwo}}>
                                 <div style={styles.itemTitle}>
-                                    【全民云计算】云主机低至2折
+                                    <a href="https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k" target="_blank">全民云计算</a>云主机低至2折
                                 </div>
                                 <div style={styles.itemDesc}>
                                     爆款云服务器低至2折，1核1G¥293/元
@@ -43,7 +43,7 @@ export default class AboutGeek extends Component {
                             </div>
                             <div key="introThree" style={{...styles.item, ...styles.introTwo}}>
                                 <div style={styles.itemTitle}>
-                                    【阿里云自营建站】千套模板 品质保证
+                                    <a href="https://www.aliyun.com/jianzhan/?userCode=36ceuk0k" target="_blank">阿里云自营建站</a>千套模板 品质保证
                                 </div>
                                 <div style={styles.itemDesc}>
                                     千套精美模板 轻松建站：邀请好友和我一样建一个小站
@@ -51,7 +51,7 @@ export default class AboutGeek extends Component {
                             </div>
                             <div key="introFour" style={{...styles.item, ...styles.introTwo}}>
                                 <div style={styles.itemTitle}>
-                                    【助力企业上云】性能级主机2-5折
+                                    <a href="https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k" target="_blank">助力企业上云</a>性能级主机2-5折
                                 </div>
                                 <div style={styles.itemDesc}>
                                     首次购买高性能云服务器，享低至2折优惠
@@ -59,7 +59,7 @@ export default class AboutGeek extends Component {
                             </div>
                             <div key="introFive" style={{...styles.item, ...styles.introTwo}}>
                                 <div style={styles.itemTitle}>
-                                    【超高返现】购物车全产品返25%
+                                    <a href="https://promotion.aliyun.com/ntms/act/shoppingcart.html?userCode=36ceuk0k" target="_blank">超高返现</a>购物车全产品返25%
                                 </div>
                                 <div style={styles.itemDesc}>
                                     新客每满1000立减50元叠加代金券，老客也可一次性采购多种产品
