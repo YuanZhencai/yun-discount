@@ -49,7 +49,7 @@ export default class AboutGeek extends Component {
                                     千套精美模板 轻松建站：邀请好友和我一样建一个小站
                                 </div>
                             </div>
-                            <div key="introThree" style={{...styles.item, ...styles.introTwo}}>
+                            <div key="introFour" style={{...styles.item, ...styles.introTwo}}>
                                 <div style={styles.itemTitle}>
                                     【助力企业上云】性能级主机2-5折
                                 </div>
