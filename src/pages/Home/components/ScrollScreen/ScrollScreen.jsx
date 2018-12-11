@@ -29,12 +29,12 @@ export default class ScrollScreen extends Component {
         <div id="page3" style={styles.section}>
           <Events />
         </div>
-        {/*<div id="page4" style={styles.section}>*/}
-          {/*<Workshop />*/}
-        {/*</div>*/}
-        {/*<div id="page5" style={styles.section}>*/}
-          {/*<Sponsorship />*/}
-        {/*</div>*/}
+        <div id="page4" style={styles.section}>
+          <Workshop />
+        </div>
+        <div id="page5" style={styles.section}>
+          <Sponsorship />
+        </div>
       </div>
     );
   }

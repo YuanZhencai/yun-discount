@@ -42,17 +42,18 @@ export default class Sponsorship extends Component {
                   <Summary num={4} title="Sponsorship" subTitle="云助商" />
                 </Col>
                 <Col l="16">
-                  <Row wrap>
-                    {MOCK_DATA.map((src, index) => {
-                      return (
-                        <Col l="8" key={index}>
-                          <a href="#" style={styles.itemLink}>
-                            <img src={src} alt="" style={styles.itemLogo} />
-                          </a>
-                        </Col>
-                      );
-                    })}
-                  </Row>
+                  尽请期待
+                  {/*<Row wrap>*/}
+                    {/*{MOCK_DATA.map((src, index) => {*/}
+                      {/*return (*/}
+                        {/*<Col l="8" key={index}>*/}
+                          {/*<a href="#" style={styles.itemLink}>*/}
+                            {/*<img src={src} alt="" style={styles.itemLogo} />*/}
+                          {/*</a>*/}
+                        {/*</Col>*/}
+                      {/*);*/}
+                    {/*})}*/}
+                  {/*</Row>*/}
                 </Col>
               </Row>
             </QueueAnim>
