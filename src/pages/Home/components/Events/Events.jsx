@@ -33,40 +33,50 @@ export default class Events extends Component {
                         </QueueAnim>
                         <QueueAnim key="queueAnim2" delay={500} duration={1000} interval={500} type="top">
                             <div key="intro1" style={styles.imageWrap}>
-                                <img
-                                    src={require('./images/ecs.png')}
-                                    alt=""
-                                    style={styles.image}
-                                />
+                                <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k" target="_blank">
+                                    <img
+                                        src={require('./images/ecs.png')}
+                                        alt=""
+                                        style={styles.image}
+                                    />
+                                </a>
+
                             </div>
                         </QueueAnim>
 
                         <QueueAnim key="queueAnim3" delay={500} duration={1000} interval={500} type="bottom">
                             <div key="intro2" style={styles.imageWrap}>
-                                <img
-                                    src={require('./images/cps.jpg')}
-                                    alt=""
-                                    style={styles.image}
-                                />
+                                <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k" target="_blank" >
+                                    <img
+                                        src={require('./images/cps.jpg')}
+                                        alt=""
+                                        style={styles.image}
+                                    />
+                                </a>
                             </div>
                         </QueueAnim>
                         <QueueAnim key="queueAnim4" delay={500} duration={1000} interval={500} type="top">
                             <div key="intro1" style={styles.imageWrap}>
-                                <img
-                                    src={require('./images/web.png')}
-                                    alt=""
-                                    style={styles.image}
-                                />
+                                <a href="https://www.aliyun.com/jianzhan/?userCode=36ceuk0k" target="_blank">
+                                    <img
+                                        src={require('./images/web.png')}
+                                        alt=""
+                                        style={styles.image}
+                                    />
+                                </a>
+
                             </div>
                         </QueueAnim>
 
                         <QueueAnim key="queueAnim5" delay={500} duration={1000} interval={500} type="bottom">
                             <div key="intro2" style={styles.imageWrap}>
-                                <img
-                                    src={require('./images/new.png')}
-                                    alt=""
-                                    style={styles.image}
-                                />
+                                <a href="https://promotion.aliyun.com/ntms/act/shoppingcart.html?userCode=36ceuk0k" target="_blank">
+                                    <img
+                                        src={require('./images/new.png')}
+                                        alt=""
+                                        style={styles.image}
+                                    />
+                                </a>
                             </div>
                         </QueueAnim>
                     </div>

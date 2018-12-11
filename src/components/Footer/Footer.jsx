@@ -16,19 +16,19 @@ export default () => {
                 <b>阿里云大礼包</b>
               </a>
               、
-              <a href="https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k" style={styles.link}>
+              <a href="https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k" target="_blank" style={styles.link}>
                 <b>助力企业上云</b>
               </a>
               、
-              <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k" style={styles.link}>
+              <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k" target="_blank" style={styles.link}>
                 <b>全民云计算</b>
               </a>
               、
-              <a href="https://www.aliyun.com/jianzhan/?userCode=36ceuk0k" style={styles.link}>
+              <a href="https://www.aliyun.com/jianzhan/?userCode=36ceuk0k" target="_blank" style={styles.link}>
                 <b>阿里云自营建站</b>
               </a>
               、
-              <a href="https://promotion.aliyun.com/ntms/act/shoppingcart.html?userCode=36ceuk0k" style={styles.link}>
+              <a href="https://promotion.aliyun.com/ntms/act/shoppingcart.html?userCode=36ceuk0k" target="_blank" style={styles.link}>
                 <b>超高返现</b>
               </a>
                助您一起驱动云中国。
