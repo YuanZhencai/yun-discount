@@ -1,15 +1,24 @@
-# 阿里云嘉年华
+# ice-scroll-screen-homepage
 
-## 阿里云大礼包
+全屏展示的首页模板，支持锚点跳转定位和内置多种动画效果
 
-阿里云活动贴心大礼包`￥1888`元代金券免费赠送，领券买产品更优惠！ [领取地址](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=36ceuk0k)
+> 使用文档
 
-## 热门活动
+使用:
 
-[阿里云自营建站](https://www.aliyun.com/jianzhan/?userCode=36ceuk0k) 千套模板 品质保证,千套精美模板 轻松建站：邀请好友和我一样建一个小站
+- 启动调试服务: `npm start`
+- 构建: `npm run build`
 
-[全民云计算](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k) 云主机低至2折,爆款云服务器低至2折，1核1G¥293/元
+目录结构:
 
-[助力企业上云](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k) 性能级主机2-5折，首次购买高性能云服务器，享低至2折优惠
+- react-router @4.x 默认采用 hashHistory 的单页应用
+- 入口文件: `src/index.js`
+- 导航配置: `src/menuConfig.js`
+- 路由配置: `src/routerConfig.js`
+- 路由入口: `src/router.jsx`
+- 布局文件: `src/layouts`
+- 通用组件: `src/components`
+- 页面文件: `src/pages`
 
-
+效果图:
+![screenshot](https://img.alicdn.com/tfs/TB1A0bMtRsmBKNjSZFsXXaXSVXa-2840-1596.png)
