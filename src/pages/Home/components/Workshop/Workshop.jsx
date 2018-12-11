@@ -34,8 +34,8 @@ export default class Workshop extends Component {
                 <Summary
                   key="summary"
                   num={3}
-                  title="Geek Workshop"
-                  subTitle="工作坊"
+                  title="Yun Workshop"
+                  subTitle="云作坊"
                 />
               </QueueAnim>
             </div>

@@ -39,7 +39,7 @@ export default class Sponsorship extends Component {
             <QueueAnim delay={200} duration={1500} type="bottom">
               <Row key="row">
                 <Col l="8">
-                  <Summary num={4} title="Sponsorship" subTitle="赞助商" />
+                  <Summary num={4} title="Sponsorship" subTitle="云助商" />
                 </Col>
                 <Col l="16">
                   <Row wrap>

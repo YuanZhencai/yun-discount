@@ -36,7 +36,7 @@ export default class Events extends Component {
                 key="summary"
                 num={2}
                 title="Events"
-                subTitle="极客活动"
+                subTitle="云活动"
               />
             </QueueAnim>
             <QueueAnim

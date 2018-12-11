@@ -9,33 +9,29 @@ export default () => {
       <div style={styles.content}>
         <Row wrap>
           <Col l="18">
-            <p style={styles.title}>关于云栖大会</p>
+            <p style={styles.title}>关于云优惠</p>
             <p style={styles.desc}>
-              关于云栖－云栖大会是由阿里巴巴集团主办的全球顶级科技大会，汇聚时代最强大脑，描绘新技术发展趋势和蓝图，展现云计算、大数据、人工智能等蓬勃发展的科技生态全景。从2015年到2017年，云栖大会系列活动已经累计吸引超过十万人现场参与，数千万人在线参与。2018年云栖大会将在深圳（
-              <a href="#" style={styles.link}>
-                <b>精彩回顾</b>
+              关于云优惠－云计算、大数据、人工智能等蓬勃发展的科技生态全景。各行各业都需要软件的支持，服务器的支持，共享云的支持。提供丰富的云优惠，节省你的上云成本。
+              <a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=36ceuk0k" style={styles.link}>
+                <b>阿里云大礼包</b>
               </a>
-              ）、南京（
-              <a href="#" style={styles.link}>
-                <b>精彩回顾</b>
+              、
+              <a href="https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=36ceuk0k" style={styles.link}>
+                <b>助力企业上云</b>
               </a>
-              ）、上海（
-              <a href="#" style={styles.link}>
-                <b>精彩回顾</b>
+              、
+              <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=36ceuk0k" style={styles.link}>
+                <b>全民云计算</b>
               </a>
-              ）、武汉（
-              <a href="#" style={styles.link}>
-                <b>精彩回顾</b>
+              、
+              <a href="https://www.aliyun.com/jianzhan/?userCode=36ceuk0k" style={styles.link}>
+                <b>阿里云自营建站</b>
               </a>
-              ）、重庆（
-              <a href="#" style={styles.link}>
-                <b>8.24同步直播中</b>
+              、
+              <a href="https://promotion.aliyun.com/ntms/act/shoppingcart.html?userCode=36ceuk0k" style={styles.link}>
+                <b>超高返现</b>
               </a>
-              ）、杭州（
-              <a href="#" style={styles.link}>
-                <b>9.19-9.22，立即抢购</b>
-              </a>
-              ）、广州、北京等地陆续举办，邀您一起驱动数字中国。
+               助您一起驱动云中国。
             </p>
           </Col>
           <Col l="6">
@@ -46,9 +42,9 @@ export default () => {
                 style={styles.qrcode}
               />
               <div style={styles.textBox}>
-                <p style={styles.subtit}>下载 App</p>
+                <p style={styles.subtit}>阿里云大礼包</p>
                 <p style={styles.text}>
-                  随时了解最新大会议程获取大会温馨提醒和参会二维码
+                  阿里云大礼包二维码，最高￥1888云产品通用代金券
                 </p>
               </div>
             </div>
