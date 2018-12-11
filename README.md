@@ -1,4 +1,4 @@
-# ice-scroll-screen-homepage
+# yun-discount
 
 全屏展示的首页模板，支持锚点跳转定位和内置多种动画效果
 
