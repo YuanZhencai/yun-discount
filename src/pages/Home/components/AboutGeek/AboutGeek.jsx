@@ -110,7 +110,7 @@ const styles = {
         marginBottom: '15px',
     },
     introOne: {
-        marginBottom: '85px',
+        marginBottom: '20px',
     },
     introTwo: {
         left: '40%',

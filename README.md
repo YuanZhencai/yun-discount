@@ -20,5 +20,3 @@
 - 通用组件: `src/components`
 - 页面文件: `src/pages`
 
-效果图:
-![screenshot](https://img.alicdn.com/tfs/TB1A0bMtRsmBKNjSZFsXXaXSVXa-2840-1596.png)
