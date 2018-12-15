@@ -76,7 +76,7 @@ export default class AboutGeek extends Component {
 const styles = {
     container: {
         height: '100%',
-        background: `url(${require('./images/bg.png')})`,
+        background: `url(${require('./images/bg.jpg')})`,
         backgroundSize: 'contain',
     },
     content: {

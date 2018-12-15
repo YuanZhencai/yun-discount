@@ -39,7 +39,7 @@ const styles = {
   container: {
     height: '100%',
     marginTop: '78px',
-    background: `url(${require('./images/bg.png')})`,
+    background: `url(${require('./images/bg.jpg')})`,
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
   },
